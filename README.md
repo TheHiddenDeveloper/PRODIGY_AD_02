@@ -28,11 +28,11 @@ This project aims to develop a To-Do app to help users organize and manage their
 ## Development Environment:
 
 - Android Studio
-- Java/Kotlin
+- Dart
 
 ## Libraries and Frameworks:
 - Android SDK
-- Android Jetpack (optional)
+- Flutter
 - Room database (for local data storage)
 
 
